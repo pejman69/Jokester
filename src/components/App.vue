@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
+<div id="app">
   Got jokes?
   {{$store.state}}
-  </div>
+</div>
 </template>
